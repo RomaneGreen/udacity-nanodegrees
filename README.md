@@ -28,8 +28,8 @@ JavaScript.
 
 
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015){:target="_blank"}
+
+1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
 1. [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
