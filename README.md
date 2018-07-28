@@ -41,26 +41,9 @@ JavaScript.
 
 ---
 
-### Senior Web Developer Nanodegree
 
-#### _No longer listed on Udacity_
 
-This program begins where our Front-End Web Developer Nanodegree program ends,
-and is designed to give intermediate developers the chance to build on existing
-front-end skills and master the newest technologies available.
 
-This program ensures you’re supremely well-prepared to succeed in a Senior Web
-Developer role.
-
-1. [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
-1. [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
-1. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-1. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-1. [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
-1. [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
-
----
 
 ### Full Stack Web Developer Nanodegree
 
