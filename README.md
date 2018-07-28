@@ -14,7 +14,6 @@ support hundreds of thousands of users.
 1. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 1. [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
