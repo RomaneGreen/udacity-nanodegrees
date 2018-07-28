@@ -15,8 +15,6 @@ support hundreds of thousands of users.
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 
-1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 1. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
